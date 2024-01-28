@@ -1,5 +1,6 @@
 {
   "name": "ytess",
+  "homepage": "https://ethzhou.github.io/ytess",
   "private": true,
   "version": "0.0.0",
   "type": "module",
